@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsite</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;700;900&display=swap" rel="stylesheet">
+    <link href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" rel="stylesheet">
+
+
+    <link href="index_style.css" rel="stylesheet">
+    </link>
+
+</head>
+
+
+<body>
+    <h1 class="core_heading"> Welcome Page</h1>
+    <section class="core_element"> 
+        Welcome to the Islamist Extremism Micro-site. <br>
+        <br>
+        <br>
+        You can search for an organization, a region or a topic:
+        <br>
+        <br>
+
+        <div id="app-cover">
+          <div id="app">
+            <form method="get" action="./page_hts.html">
+              <div id="f-element">
+                <div id="inp-cover"><input type="text" name="query" placeholder="Type something to search ..." autocomplete="off"></div>
+              </div>
+              <button type="submit" class="shadow"><i class="fas fa-search"></i></button>
+            </form>
+          </div>
+          <div id="layer" title="Click the blue area to hide the form"></div>
+          <div id="init"></div>
+        </div>
+
+      </section>
+   
+      <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+      <script src="script-jquery.js"></script>
+
+
+</body>
+
+</html>

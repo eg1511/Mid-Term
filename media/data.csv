@@ -1,0 +1,298 @@
+﻿year,city,country,match type,number dead and wounded,number dead,number wounded,number attacks,tweets
+2019,Abeche,Chad,"Tweets, no attacks",,,,,10
+2019,Abha,Saudi,"Attack, no tweet",48,1,47,2,
+2019,Abyan,Yemen,Match,38,26,12,4,6
+2019,Accra,Ghana,"Tweets, no attacks",,,,,336
+2019,Achkhoy,Russia,"Attack, no tweet",1,1,0,1,
+2019,Adamawa,Nigeria,Match,31,31,0,3,40
+2019,Addis Ababa,Ethiopia,"Tweets, no attacks",,,,,1
+2019,Aden,Yemen,Match,58,53,5,5,"1,210"
+2019,Adrar,Algeria,"Tweets, no attacks",,,,,177
+2019,Adre,Chad,"Tweets, no attacks",,,,,34
+2019,Afar,Ethiopia,"Tweets, no attacks",,,,,793
+2019,Ain Defla,Algeria,Match,2,1,1,1,238
+2019,Al Hoceima,Morocco,"Tweets, no attacks",,,,,2
+2019,Al Hol,Syria,"Tweets, no attacks",,,,,98
+2019,Al Jawf,Yemen,Match,11,11,0,1,38
+2019,Al Salt,Jordan,Match,13,5,8,1,88
+2019,Aleppo,Syria,Match,217,98,119,20,593
+2019,Alexandria,Egypt,"Tweets, no attacks",,,,,6
+2019,Algiers,Algeria,"Tweets, no attacks",,,,,"1,106"
+2019,Amhara,Ethiopia,"Tweets, no attacks",,,,,72
+2019,Anbar,Iraq,Match,107,49,58,24,888
+2019,Ankara,Turkey,"Tweets, no attacks",,,,,28
+2019,Annaba,Algeria,"Tweets, no attacks",,,,,17
+2019,Arish,Egypt,Match,90,44,46,10,427
+2019,Aschigachia,Cameroon,"Attack, no tweet",7,0,7,1,
+2019,Assab,Eritrea,"Tweets, no attacks",,,,,262
+2019,Ati,Chad,"Tweets, no attacks",,,,,414
+2019,Awasa,Ethiopia,"Tweets, no attacks",,,,,111
+2019,Badakhshan,Afghanistan,Match,5,5,0,1,"1,831"
+2019,Badghis,Afghanistan,Match,215,120,95,5,2
+2019,Badulla,Sri Lanka,"Tweets, no attacks",,,,,81
+2019,Baghdad,Iraq,Match,89,28,61,6,"1,367"
+2019,Baghlan,Afghanistan,"Attack, no tweet",221,104,117,15,
+2019,Baghuz,Syria,Match,1,1,0,1,"1,969"
+2019,Bague Djaradi,Niger,"Attack, no tweet",6,6,0,1,
+2019,Baidoa,Somalia,Match,5,2,3,2,6
+2019,Balad,Somalia,Match,,,,1,16
+2019,Balkh,Afghanistan,Match,104,64,40,11,45
+2019,Balochistan,Pakistan,Match,190,62,128,15,49
+2019,Bardai,Chad,"Tweets, no attacks",,,,,113
+2019,Bardera,Somalia,"Attack, no tweet",9,3,6,3,
+2019,Barentu,Eritrea,"Tweets, no attacks",,,,,392
+2019,Barisal,Bangladesh,"Tweets, no attacks",,,,,1
+2019,Barsalogho,Burkina Faso,"Attack, no tweet",49,49,,1,
+2019,Basilan,Philippines,"Attack, no tweet",8,3,5,4,
+2019,Basra,Iraq,"Tweets, no attacks",,,,,335
+2019,Batticaloa,Sri Lanka,"Attack, no tweet",113,30,83,1,
+2019,Beledweyne,Ethiopia,"Attack, no tweet",2,0,2,1,
+2019,Ben Gardane,Tunisia,"Tweets, no attacks",,,,,1
+2019,Benghazi,Libya,"Tweets, no attacks",,,,,329
+2019,Beni,Congo,Match,34,18,16,4,"1,269"
+2019,Benishangul-Gumuz,Libya,"Tweets, no attacks",,,,,5
+2019,Bizerte,Tunisia,"Tweets, no attacks",,,,,3
+2019,Blangoua,Cameroon,"Attack, no tweet",7,7,0,1,
+2019,Borno,Nigeria,Match,793,508,285,52,"3,274"
+2019,Bosaso,Somalia,"Attack, no tweet",4,2,2,2,
+2019,Bosso,Niger,"Attack, no tweet",23,12,11,3,
+2019,Bu'ale,Somalia,"Tweets, no attacks",,,,,324
+2019,Cabo Delgado,Mozambique,"Attack, no tweet",24,4,20,1,
+2019,Cairo,Egypt,Match,71,21,50,2,115
+2019,Casablanca,Morocco,"Tweets, no attacks",,,,,3
+2019,Central Java,indonesia,"Attack, no tweet",0,0,0,1,
+2019,Chambi Mountains,Tunisia,Match,4,1,3,1,1
+2019,Chetima Wanou,Nigeria,"Attack, no tweet",13,7,6,1,
+2019,Colombo,Sri Lanka,Match,529,197,332,5,7
+2019,Conde,Guinea,"Attack, no tweet",2,0,2,1,
+2019,Cotabato,Philippines,"Attack, no tweet",7,3,4,2,
+2019,Dablo,Burkina Faso,"Attack, no tweet",6,6,,1,
+2019,Dammam,Saudi,"Attack, no tweet",2,0,2,1,
+2019,Daraa,Syria,Match,0,0,0,1,99
+2019,Davao,Philippines,"Tweets, no attacks",,,,,26
+2019,Dawadmi,Saudi,Match,0,0,0,1,4
+2019,Daykundi,Afghanistan,"Attack, no tweet",72,31,41,5,
+2019,Dehiwala,Sri Lanka,"Attack, no tweet",85,2,83,1,
+2019,Deir ez-Zor,Syria,Match,199,166,33,32,"8,740"
+2019,Derna,Libya,Match,18,0,18,1,72
+2019,Dhaka,Bangladesh,Match,8,0,8,3,448
+2019,Dhale,Yemen,"Attack, no tweet",5,0,5,1,
+2019,Diban,Syria,Match,6,6,0,3,132
+2019,Dibis,Iraq,Match,3,2,1,1,8
+2019,Diffa,Niger,Match,18,13,5,2,36
+2019,Diyala,Iraq,Match,148,38,110,32,728
+2019,Djibo,Burkina Faso,Match,126,95,31,9,266
+2019,Djibouti,Djibouti,"Tweets, no attacks",,,,,410
+2019,Dogondoutchi,Niger,"Attack, no tweet",3,3,0,1,
+2019,Eindhoven,Netherlands,"Attack, no tweet",4,0,4,1,
+2019,El Obeid,Sudan,"Tweets, no attacks",,,,,152
+2019,El Wak,Somalia,"Attack, no tweet",5,5,0,1,
+2019,Erbil,Iraq,Match,37,7,30,1,78
+2019,Erigavo,Somalia,"Tweets, no attacks",,,,,876
+2019,Fada N'gourm,Burkina Faso,"Attack, no tweet",5,5,0,1,
+2019,Fallujah,Iraq,Match,26,3,23,3,397
+2019,Far North,Cameroon,"Attack, no tweet",3,0,3,1,
+2019,Farah,Afghanistan,"Attack, no tweet",186,121,65,12,
+2019,Faryab,Afghanistan,"Attack, no tweet",90,56,34,5,
+2019,Faya-Largeau,Chad,"Tweets, no attacks",,,,,93
+2019,Fez,Morocco,"Tweets, no attacks",,,,,137
+2019,Fotokol,Cameroon,"Attack, no tweet",7,3,4,1,
+2019,Fuqaha,Libya,Match,3,3,0,1,173
+2019,Gafsa,Tunisia,"Attack, no tweet",1,0,1,1,
+2019,Galle,Sri Lanka,"Tweets, no attacks",,,,,84
+2019,Gambela,Ethiopia,"Tweets, no attacks",,,,,65
+2019,Gao,Mali,Match,23,6,17,3,"3,222"
+2019,Garissa,Kenya,Match,4,0,4,1,"1,390"
+2019,Gaziantep,Turkey,"Tweets, no attacks",,,,,4
+2019,Gedo,Somalia,Match,10,4,6,2,"2,708"
+2019,Ghadduwah,Libya,Match,8,7,1,3,66
+2019,Ghat,Libya,"Tweets, no attacks",,,,,403
+2019,Ghazni,Afghanistan,"Attack, no tweet",172,74,98,18,
+2019,Ghor,Afghanistan,Match,88,66,22,5,449
+2019,Giza,Egypt,Match,5,0,5,1,9
+2019,Gog Gadud,Somalia,"Attack, no tweet",48,8,40,1,
+2019,Grozny,Russia,"Attack, no tweet",2,0,2,1,
+2019,Guederou,Cameroon,"Attack, no tweet",6,6,,1,
+2019,Gueskerou,Niger,"Attack, no tweet",72,72,0,4,
+2019,Gwoza,Nigeria,"Attack, no tweet",15,8,7,1,
+2019,Hadhramaut,Yemen,Match,14,9,5,4,673
+2019,Hajjah,Yemen,"Attack, no tweet",38,8,30,1,
+2019,Hama,Syria,Match,237,187,50,19,"1,245"
+2019,Harari,Ethiopia,"Tweets, no attacks",,,,,27
+2019,Hasakah,Syria,Match,30,15,15,6,216
+2019,Helmand,Afghanistan,Match,220,114,106,7,9
+2019,Herat,Afghanistan,Match,145,58,87,11,1
+2019,Hillah,Iraq,Match,2,0,2,1,90
+2019,Homs,Syria,Match,73,73,0,6,873
+2019,Houn,Libya,"Tweets, no attacks",,,,,806
+2019,Hudaydah,Yemen,Match,22,9,13,3,3
+2019,Idlib,Syria,Match,34,9,25,2,189
+2019,Istanbul,Turkey,"Tweets, no attacks",,,,,219
+2019,Jaffna,Sri Lanka,"Tweets, no attacks",,,,,1
+2019,Jakarta,Indonesia,"Tweets, no attacks",,,,,4
+2019,Jalalaqsi,Somalia,"Attack, no tweet",13,13,0,1,
+2019,Jammu,India,Match,224,86,138,49,55
+2019,Jijiga,Ethiopia,"Tweets, no attacks",,,,,41
+2019,Jizan,Saudi,"Tweets, no attacks",,,,,24
+2019,Jowzjan,Afghanistan,Match,69,62,7,5,2
+2019,Kabul,Afghanistan,Match,"1,082",222,860,27,71
+2019,Kaduna,Nigeria,Match,3,3,0,1,17
+2019,Kahramanmaras,Turkey,"Tweets, no attacks",,,,,2
+2019,Kaiga,India,"Attack, no tweet",12,7,5,1,
+2019,Kalmunai,Sri Lanka,"Attack, no tweet",3,1,2,1,
+2019,Kandahar,Afghanistan,Match,260,185,75,17,8
+2019,Kandi,Benin,"Tweets, no attacks",,,,,3
+2019,Kapisa,Afghanistan,"Attack, no tweet",7,6,1,2,
+2019,Kassala,Sudan,"Tweets, no attacks",,,,,9
+2019,Kedah,Malaysia,"Tweets, no attacks",,,,,18
+2019,Keren,Eritrea,"Tweets, no attacks",,,,,342
+2019,Khartoum,Sudan,"Tweets, no attacks",,,,,1
+2019,Khost,Afghanistan,"Attack, no tweet",29,4,25,2,
+2019,Khulna,Bangladesh,"Tweets, no attacks",,,,,9
+2019,Khyber Pakhtunkhwa,Pakistan,Match,27,10,17,10,19
+2019,Kidal,Mali,Match,35,10,25,1,9
+2019,Kirkuk,Iraq,Match,181,68,113,36,334
+2019,Kismayo,Somalia,"Attack, no tweet",100,44,56,3,
+2019,Kolofata,Cameroon,"Tweets, no attacks",,,,,240
+2019,Kompienga,Burkina Faso,"Attack, no tweet",,,1,1,
+2019,Kongoussi,Burkina Faso,"Attack, no tweet",2,2,0,1,
+2019,Koulikoro,Mali,"Attack, no tweet",19,16,3,2,
+2019,Koulpélogo,Burkina Faso,"Attack, no tweet",6,6,0,1,
+2019,Kourao,Burkina Faso,"Attack, no tweet",3,3,0,1,
+2019,Kunar,Afghanistan,Match,17,2,15,2,19
+2019,Kunduz,Afghanistan,Match,342,139,203,10,3
+2019,Kursky,Russia,"Attack, no tweet",2,0,2,1,
+2019,Kurunegala,Sri Lanka,"Tweets, no attacks",,,,,9
+2019,Laghman,Afghanistan,Match,6,4,2,1,14
+2019,Lahij,Yemen,"Attack, no tweet",18,6,12,1,
+2019,Lake Chad,Chad,Match,144,105,39,7,42
+2019,Las Anod,Somalia,"Tweets, no attacks",,,,,5
+2019,Latakia,Syria,"Attack, no tweet",9,7,2,2,
+2019,Lidjungo,Mozambique,"Attack, no tweet",7,7,0,1,
+2019,Logar,Afghanistan,Match,43,29,14,4,2
+2019,Lower Juba,Somalia,"Attack, no tweet",8,8,0,1,
+2019,Lower Shabelle,Somalia,Match,2,2,0,1,1
+2019,Lyon,France,Match,13,0,13,1,"2,289"
+2019,Macomia,Mozambique,"Attack, no tweet",52,32,20,2,
+2019,Madagali,Nigeria,"Attack, no tweet",6,6,0,3,
+2019,Madani,Sudan,"Tweets, no attacks",,,,,32
+2019,Maguindanao,Philippines,"Attack, no tweet",29,1,28,8,
+2019,Mahaday,Somalia,"Attack, no tweet",3,3,0,1,
+2019,Maidan Wardak,Afghanistan,Match,181,121,60,2,62
+2019,Mandera,Kenya,Match,1,1,0,2,3
+2019,Manguirlda,Cameroon,"Attack, no tweet",3,3,0,1,
+2019,Manila,Philippines,"Tweets, no attacks",,,,,2
+2019,Maradi,Niger,"Tweets, no attacks",,,,,33
+2019,Marawi,Philippines,"Tweets, no attacks",,,,,1
+2019,Massawa,Eritrea,"Tweets, no attacks",,,,,3
+2019,Medina,Saudi,"Attack, no tweet",1,1,0,1,
+2019,Meknes,Morocco,"Tweets, no attacks",,,,,1
+2019,Menaka,Mali,Match,23,6,17,3,1
+2019,Merca,Somalia,Match,2,2,0,1,115
+2019,Mindanao,Philippines,"Tweets, no attacks",,,,,7
+2019,Mishmeret,Israel,"Attack, no tweet",7,0,7,1,
+2019,Mocimboa da Praia,Mozambique,"Attack, no tweet",49,24,25,4,
+2019,Mogadishu,Somalia,Match,429,158,271,37,83
+2019,Mohmand,Pakistan,Match,3,2,1,2,1
+2019,Mombasa,Kenya,"Tweets, no attacks",,,,,25
+2019,Mopti,Mali,Match,90,72,18,9,"1,637"
+2019,Mosul,Iraq,Match,81,29,52,15,"1,940"
+2019,Moundou,Chad,"Tweets, no attacks",,,,,32
+2019,Murzuk,Libya,"Tweets, no attacks",,,,,5
+2019,N'Djamena,Chad,"Tweets, no attacks",,,,,1
+2019,N'guigmi, Niger,"Attack, no tweet",20,12,8,1,
+2019,Nairobi,Kenya,Match,70,42,28,2,1
+2019,Najaf,Iraq,Match,2,2,0,1,1
+2019,Nangade,Mozambique,"Attack, no tweet",7,7,0,1,
+2019,Nangarhar, Afghanistan,Match,283,47,236,13,1
+2019,Narsingdi,Bangladesh,"Tweets, no attacks",,,,,2
+2019,Nassougou,Burkina Faso,"Tweets, no attacks",,,,,24
+2019,Nassoumbou,Burkina Faso,"Attack, no tweet",9,4,5,1,
+2019,Nema,Mauritania,"Tweets, no attacks",,,,,28
+2019,New Valley,Egypt,Match,4,0,4,1,1
+2019,Niamey,Niger,Match,22,18,4,1,2
+2019,Nik Shahr,Iran,"Attack, no tweet",6,1,5,1,
+2019,Nimruz,Afghanistan,"Attack, no tweet",14,6,8,1,
+2019,Nineveh,Iraq,Match,33,12,21,6,780
+2019,Nouakchott,Mauritania,"Tweets, no attacks",,,,,2
+2019,Nyala,Sudan,"Tweets, no attacks",,,,,3
+2019,Nyeri,Kenya,"Tweets, no attacks",,,,,122
+2019,Oran,Algeria,"Tweets, no attacks",,,,,26
+2019,Oromia,Ethiopia,"Tweets, no attacks",,,,,6
+2019,Oruzgan,Afghanistan,"Attack, no tweet",1,1,0,1,
+2019,Oslo,Norway,Match,1,0,1,1,3
+2019,Oudalan,Burkina Faso,"Tweets, no attacks",,,,,1
+2019,Oursi,Burkina Faso,Match,8,5,3,1,1
+2019,Paktia,Afghanistan,Match,0,0,0,1,10
+2019,Paktika,Afghanistan,"Attack, no tweet",53,28,25,3,
+2019,Pala,Chad,"Tweets, no attacks",,,,,3
+2019,Palma,Mozambique,"Attack, no tweet",1,1,0,1,
+2019,Pama,Burkina Faso,"Attack, no tweet",3,3,0,1,
+2019,Paris,France,"Tweets, no attacks",,,,,41
+2019,Parwan,Afghanistan,Match,10,5,5,3,1
+2019,Perak,Malaysia,"Tweets, no attacks",,,,,1
+2019,Perlis,Malaysia,"Tweets, no attacks",,,,,2
+2019,Port Sudan,Sudan,"Tweets, no attacks",,,,,"1,321"
+2019,Pulwama,India,"Tweets, no attacks",,,,,57
+2019,Punjab,India,"Attack, no tweet",42,14,28,2,
+2019,Quiterajo,Mozambique,"Attack, no tweet",7,7,0,1,
+2019,Rabat,Morocco,"Tweets, no attacks",,,,,1
+2019,Rafah,Egypt,Match,9,5,4,4,339
+2019,Rajshahi,Bangladesh,"Tweets, no attacks",,,,,1
+2019,Raqqa,Syria,Match,86,32,54,11,"1,048"
+2019,Sabah,Malaysia,"Tweets, no attacks",,,,,"2,034"
+2019,Sadah,Malaysia,Match,72,12,60,1,2
+2019,Saladin,Iraq,Match,129,52,77,21,260
+2019,Sale,Morocco,"Tweets, no attacks",,,,,26
+2019,Samangan,Afghanistan,"Attack, no tweet",19,12,7,2,
+2019,Sandakan,Malaysia,"Tweets, no attacks",,,,,2
+2019,Sandawadjiri,Cameroon,"Attack, no tweet",3,3,0,1,
+2019,Sarawak,Malaysia,"Tweets, no attacks",,,,,205
+2019,Sarh,Chad,"Tweets, no attacks",,,,,169
+2019,Sari Pul,Afghanistan,Match,126,56,70,7,1
+2019,Sebha,Libya,Match,9,9,0,1,110
+2019,Segou,Mali,Match,1,1,,1,1
+2019,Seno,Burkina Faso,"Tweets, no attacks",,,,,593
+2019,Sfax,Tunisia,"Tweets, no attacks",,,,,1
+2019,Shabwah,Yemen,Match,26,13,13,2,1
+2019,Sheikh Zuweid,Egypt,"Tweets, no attacks",,,,,239
+2019,Shirqat,Iraq,Match,25,12,13,5,162
+2019,Sibolga,indonesia,"Attack, no tweet",3,1,2,1,
+2019,Sideradougou,Burkina Faso,"Attack, no tweet",1,1,,1,
+2019,Sidi Bouzid,Tunisia,Match,1,1,0,1,5
+2019,Simbolongo,Mozambique,"Attack, no tweet",3,3,0,1,
+2019,Sinai,Egypt,"Tweets, no attacks",,,,,"2,877"
+2019,Sindh, Pakistan,"Attack, no tweet",1,0,1,1,
+2019,Singapore,Singapore,"Tweets, no attacks",,,,,1
+2019,Sirte,Libya,"Tweets, no attacks",,,,,952
+2019,Sousse,Tunisia,"Tweets, no attacks",,,,,80
+2019,Sulu,Philippines,Match,209,45,164,12,52
+2019,Surabaya,Indonesia,Match,3,0,3,1,3
+2019,Taiz,Yemen,Match,67,11,56,4,"1,382"
+2019,Takhar,Afghanistan,Match,40,17,23,5,7
+2019,Tangiers,Morocco,"Tweets, no attacks",,,,,3
+2019,Tchakamari,Cameroon,"Attack, no tweet",11,11,0,1,
+2019,Tel aviv,Israel,Match,0,0,0,1,12
+2019,Tetouan,Morocco,"Tweets, no attacks",,,,,6
+2019,Tigris,Iraq,"Tweets, no attacks",,,,,153
+2019,Tillaberi,Niger,Match,1,0,1,1,465
+2019,Toeni,Burkina Faso,"Attack, no tweet",6,4,2,1,
+2019,Tongo Tongo,Niger,"Attack, no tweet",28,28,0,1,
+2019,Toulfe,Burkina Faso,"Attack, no tweet",4,4,0,1,
+2019,Toumour,Niger,"Attack, no tweet",1,1,0,1,
+2019,Tripoli,Libya,Match,4,4,0,1,"1,379"
+2019,Tunis,Tunisia,Match,9,1,8,1,"1,019"
+2019,Utrecht,Netherlands,Match,10,3,7,1,7
+2019,Vahdat,Tajikistan,"Attack, no tweet",8,8,0,1,
+2019,Wajir,Kenya,Match,13,12,1,1,5
+2019,Waziristan,Pakistan,Match,30,15,15,6,7
+2019,Yagha,Burkina Faso,Match,0,0,0,1,83
+2019,Yatenga,Burkina Faso,"Attack, no tweet",14,14,,1,
+2019,Yendere,Burkina Faso,"Attack, no tweet",3,3,0,1,
+2019,Yirgou,Burkina Faso,Match,15,15,0,1,7
+2019,Yobe,Nigeria,Match,22,12,10,4,195
+2019,Zabul,Afghanistan,Match,47,33,14,4,20
+2019,Zahedan,Iran,"Attack, no tweet",43,27,16,2,
+2019,Zella,Libya,Match,6,2,4,1,176
+2019,Zulfi,Saudi,Match,3,0,3,1,103
+2019,Zuwara,Tunisia,"Tweets, no attacks",,,,,5
